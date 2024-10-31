@@ -14,7 +14,7 @@ Follow the steps below to set up a GitHub Codespace. Codespaces offer a cloud-ba
 3. In the left sidebar, scroll down and find the **"Secrets and variables"** section.
 4. Click on **Codespaces** under this section.
 5. Click the **New repository secret** button.
-6. Provide a unique name for the secret, using **UPPERCASE letters with underscores** (e.g., `MYSQL_PASSWORD`).
+6. Provide a unique name for the secret, using **UPPERCASE letters with underscores** (Use **MYSQL_PASSWORD** as the variable name, as it is defined with the same name in docker-compose.yml).
 7. **Enter the secret value** in the text box (e.g., your database password). This will be your password for logging in to the database within the Codespace environment.
 8. Click the **"Add secret"** button to save the secret.
 
