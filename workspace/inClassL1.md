@@ -1,6 +1,6 @@
 ## In-Class Task 1: Getting Started with Database
 
-You are required to complete the following tasks in-class on the same day and push it to GitHub. (1 point)
+You are required to complete the following tasks in-class on the same day. There is no need to submit these inclass tasks. 
 
 1. Write a SQL statement to create a new database named fname_lname (replace fname and lname with your first and last name, respectively).
 
