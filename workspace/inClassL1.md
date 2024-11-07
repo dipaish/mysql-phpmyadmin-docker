@@ -1,7 +1,5 @@
 ## In-Class Task 1: Getting Started with Database
 
-You are required to complete the following tasks in-class on the same day. There is no need to submit these inclass tasks. 
-
 1. Write a SQL statement to create a new database named fname_lname (replace fname and lname with your first and last name, respectively).
 
 2. Use the SHOW DATABASES; command to verify that the database has been created.
