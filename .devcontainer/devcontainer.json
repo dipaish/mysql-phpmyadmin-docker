@@ -12,8 +12,10 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "yzhang.markdown-all-in-one", // Provides Markdown Preview and other features
-        "davidanson.vscode-markdownlint" // Optional: Adds Markdown linting for better formatting
+         "yahyabatulu.vscode-markdown-alert",
+         "bierner.github-markdown-preview",
+         "bierner. markdown-preview-github-styles",
+         "oderwat.indent-rainbow"
       ]
     }
   }
