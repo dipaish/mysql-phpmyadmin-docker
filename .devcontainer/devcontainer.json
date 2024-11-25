@@ -8,5 +8,13 @@
   },
   "mounts": [
     "source=${localWorkspaceFolder}/workspace,target=/workspace,type=bind,consistency=cached"
-  ]
+  ], 
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "yzhang.markdown-all-in-one", // Provides Markdown Preview and other features
+        "davidanson.vscode-markdownlint" // Optional: Adds Markdown linting for better formatting
+      ]
+    }
+  }
 }
